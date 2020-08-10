@@ -14,6 +14,3 @@ else:
     print("Mekana Hoşgeldiniz.")
 
 
-
-
- 
