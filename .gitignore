@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Paket-1 Giriş Seviye Uygulamalar/.idea/vcs.xml
+Paket-1 Giriş Seviye Uygulamalar/.idea/Paket-1 Giriş Seviye Uygulamalar.iml
+*.xml
